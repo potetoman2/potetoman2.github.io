@@ -1,13 +1,13 @@
 # LiveTalk 紹介・サポートサイト
 
-個人向けiPhone音声会話アプリの公開準備サイトです。
+運営者の屋号：ぞこーばスタジオ（個人運営）。サポート：doude424@gmail.com。
 
-- 公開サイト予定: https://potetoman2.github.io/
-- サポート: doude424@gmail.com
-- 無料広告版 / 広告なし買い切り980円を予定
+個人向けiPhone音声会話アプリの公開準備サイト：https://potetoman2.github.io/
+広告付き無料版と広告除去980円の買い切りを予定しています。
 
-App Storeでの販売は開始していません。規約とプライバシー説明は準備版です。運営者名、正式な接続条件、各登録・審査の確認後に更新します。
+App Store販売は未開始。規約とプライバシー説明は、商用接続と正式な提供条件の確定前の準備版です。
+2026-10-07にOpenAI商用連携申請の受付完了を確認しました。承認はまだ受けていません。
+静的HTMLで、独自のアクセス解析、フォーム、広告は組み込んでいません。
+GitHub Pagesのホスティング条件は別途適用されます。
 
-サイトは静的HTMLで、独自のアクセス解析、フォーム、広告を組み込んでいません。GitHub Pagesのホスティング条件は別途適用されます。
-
-アプリのソース: https://github.com/potetoman2/voicevox-livetalk-ios
+ソース：https://github.com/potetoman2/voicevox-livetalk-ios
